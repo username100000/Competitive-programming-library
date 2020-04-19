@@ -21,7 +21,7 @@
 
 | Problem        | Tags          | Notes  | Solution |
 |:------------- |:-------------|:-----|:--------|
-| [Hulk](http://codeforces.com/problemset/problem/705/A)     |  -  | - | [link](http://codeforces.com/contest/705/submission/21388508) |
+| [Hulk](http://codeforces.com/problemset/problem/705/A)     |  solved  | - | [link](http://codeforces.com/contest/705/submission/21388508) |
 | [Pangram](http://codeforces.com/problemset/problem/520/A)      | - | - |  [link](http://codeforces.com/contest/520/submission/15445288) |
 | [Wet Shark and Odd and Even](http://codeforces.com/problemset/problem/621/A) |   -    |   `int` overflow  | [link](http://codeforces.com/contest/621/submission/15737294) |
 | [Sub-prime](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2726) | - | simulation | [link](https://github.com/AhmadElsagheer/UVa-Solutions/blob/master/v116/SubPrimeUVa11679.java) |
